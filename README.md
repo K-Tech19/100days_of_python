@@ -1,2 +1,2 @@
-# 100days_of_python
+# 100days of Python
 
