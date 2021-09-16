@@ -1,0 +1,19 @@
+# Heads or Tails
+
+#Write your code below this line 👇
+#Hint: Remember to import the random module first. 🎲
+import random
+
+toss = input('Heads or Tails? \n').capitalize()
+
+coinToss = random.randint(1,2)
+
+Heads = 1
+Tails = 2
+
+if(coinToss == Heads):
+  print('you got Heads')
+else:
+  print('You got Tails')
+
+# print(coinToss)
